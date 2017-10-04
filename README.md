@@ -118,8 +118,8 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 *Those builds will let you use recent versions of Godot Git, but they may be less stable than official ones, use at your own risk.*
 
 - [Calinou's nightly builds](https://archive.hugo.pro/godot/)
-- [Fixnum's nightly builds](http://fixnum.org/godot/)
-- [Purple Orange Games' nightly builds](https://purpleorangegames.com/filesGodot/)
+- ~[Fixnum's nightly builds](http://fixnum.org/godot/)~ (Outdated. No new builds since July 27)
+- ~[Purple Orange Games' nightly builds](https://purpleorangegames.com/filesGodot/)~ (404 Error)
 
 ## Other
 
